@@ -1,4 +1,3 @@
-setwd("C:/00_Datos/00_trabajo/02_Biblio/04_Data_Science/coursera/DataScienceSpecialization/04_ExploratoryDataAnalysis/course-project-2")
 
 #import required packages
 lapply(list('lubridate', 'dplyr', 'data.table', 'ggplot2'), require, character.only = TRUE)
